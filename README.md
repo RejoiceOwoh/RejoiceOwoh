@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RejoiceOwoh
 - 👀 All I see is Salem | Light | The Truth through me; That's why I develop, build, grow
-- 🌱 I’m currently learning MERN Full Stack 
+- 🌱 MERN Full Stack is Fun 
 - 💞️ I’m looking to collaborate on Building a Social Media App
 - 📫 How to reach me owohrejoice@gmail.com
 
